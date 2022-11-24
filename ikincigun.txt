@@ -8,3 +8,5 @@ github
 Git GitHub ucuncu gun ikinci deneme .... denem
 Git GitHub ucuncu gun ikinci deneme .... denem denem ikinci deneme
 master branch yeni ekleme
+Git Github ucuncu gun nur branch'i ilk deneme
+
